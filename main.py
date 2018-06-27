@@ -1,4 +1,5 @@
 import sys
+import other
 
 def query_start_game(question, default="yes"):
     valid = {"yes": True, "y": True, "ye": True,
