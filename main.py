@@ -33,5 +33,5 @@ print('Hello, World!')
 
 print('Welcome to the Eva Story.')
 
-
+query_yes_no("Would you like to start the game?")
 
