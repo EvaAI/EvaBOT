@@ -4,4 +4,4 @@ print('Hel...')
 print('Hello..')
 print('Hello, World!')
 
-print('Welcome to the Eva Game.')
+print('Welcome to the Eva Story.')
