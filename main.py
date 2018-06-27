@@ -1,6 +1,6 @@
 import sys
 
-def query_yes_no(question, default="yes"):
+def query_start_game(question, default="yes"):
     valid = {"yes": True, "y": True, "ye": True,
              "no": False, "n": False}
     if default is None:
@@ -33,5 +33,5 @@ print('Hello, World!')
 
 print('Welcome to the Eva Story.')
 
-query_yes_no("Would you like to start the game?")
+query_start_game("Would you like to start the game?")
 
